@@ -83,6 +83,8 @@ Calcular errores de las mediciones y comentar los resultados.
 
 ***5.-VIDEO***
 
+AQUI VA EL SUPER VIDEO DEL DANIEL XD
+
 ***6.-CONCLUSIONES***
 
 Mediante la realización del informe se pudo conocer la ley de voltaje de Kirchhoff para de manera correcta usar los instrumentos de electricidad y electrónica. 
